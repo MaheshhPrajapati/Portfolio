@@ -5,8 +5,6 @@ This is a portfolio website, showcasing a developer's professional experience, e
 
 ## Features
 - **Responsive Design**: The website is responsive and works well on different devices and screen sizes.
-- **Dynamic Routing**: Next.js handles dynamic routing, making it easy to navigate between different sections of the website.
-- **Project Showcase**: The website includes sections highlighting the developer's employment history, education, and technical skills.
 - **Contact Information**: Contact information is provided, allowing visitors to reach out to the developer easily.
 
 ## Getting Started
