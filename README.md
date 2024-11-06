@@ -5,7 +5,6 @@ This is a portfolio website, showcasing a developer's professional experience, e
 
 ## Features
 - **Responsive Design**: The website is responsive and works well on different devices and screen sizes.
-- **Contact Information**: Contact information is provided, allowing visitors to reach out to the developer easily.
 
 ## Getting Started
 To run the project locally, follow these steps:
