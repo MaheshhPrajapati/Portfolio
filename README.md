@@ -20,7 +20,7 @@ To run the project locally, follow these steps:
 The website can be deployed to various hosting platforms such as Vercel, Netlify, or AWS Amplify. Deployment instructions may vary depending on the chosen platform.
 
 ## Credits
-- This website inspired from [WebPraktikos]([https://github.com/WebPraktikos/universal-resume?tab=readme-ov-file]).
+- This website inspired from [WebPraktikos](https://github.com/WebPraktikos/universal-resume?tab=readme-ov-file).
 
 ## License
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
